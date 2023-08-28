@@ -15,19 +15,6 @@
     <script type="text/javascript">
 
         <!--
-        var lstMember = new Array();
-        var parent = new Array();
-        var equal = new Array();
-        var rec = new Array();
-        var cmp1,cmp2;
-        var head1,head2;
-        var nrec;
-        
-        var numQuestion;
-        var totalSize;
-        var finishSize;
-        var finishFlag;
-
         function init() {
             var list1 = new Array(
                 "option 1",
@@ -39,40 +26,36 @@
                 "option 2"
             );
 
-            function getItems(){
-                var area1 = document.getElementById("area1").value;
-                var area2 = document.getElementById("area2").value;
-                if (area1 && area2) {
-                    var items1 = area1.replace(/\r\n/g,"\n").split("\n").filter(line => line);
-                    var items2 = area2.replace(/\r\n/g,"\n").split("\n").filter(line => line);
-                    if (items1.length <= items2.length) {
-                        list1 = items1;
-                        list2 = items2;
-                    } else {
-                        list1 = items2;
-                        list2 = items1;
-                    }
-                    run()
+            var area1 = document.getElementById("area1").value;
+            var area2 = document.getElementById("area2").value;
+            if (area1 && area2) {
+                var items1 = area1.replace(/\r\n/g,"\n").split("\n").filter(line => line);
+                var items2 = area2.replace(/\r\n/g,"\n").split("\n").filter(line => line);
+                if (items1.length <= items2.length) {
+                    list1 = items1;
+                    list2 = items2;
                 } else {
-                    document.getElementById("resultField").innerHTML = 'pls enter things to assign';
+                    list1 = items2;
+                    list2 = items1;
                 }
+                run()
+            } else {
+                document.getElementById("resultField").innerHTML = 'pls enter things to assign';
             }
 
-            getItems();
+            function shuffle(array) {
+                // src: https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array
+                let currentIndex = array.length,  randomIndex;
+                while (currentIndex > 0) {
+                    randomIndex = Math.floor(Math.random() * currentIndex);
+                    currentIndex--;
+                    [array[currentIndex], array[randomIndex]] = [
+                    array[randomIndex], array[currentIndex]];
+                }
+                return array;
+            }
 
             function run() {
-
-                function shuffle(array) {
-                    let currentIndex = array.length,  randomIndex;
-                    while (currentIndex > 0) {
-                        randomIndex = Math.floor(Math.random() * currentIndex);
-                        currentIndex--;
-                        [array[currentIndex], array[randomIndex]] = [
-                        array[randomIndex], array[currentIndex]];
-                    }
-                    return array;
-                }
-
                 shuffle(list1);
                 shuffle(list2);
 
@@ -81,8 +64,7 @@
                 for (i = 0; i < list1.length; i++) {
                     outputStr = outputStr + (list1[i]) + ' - ' + (list2[i]) + '<br>';
                 }
-                console.log(outputStr);
-
+                // console.log(outputStr);
                 document.getElementById("resultField").innerHTML = outputStr;
             }
         }
@@ -113,8 +95,8 @@
 <body text="#000000" bgcolor="#ffffff" link="#e097d9" vlink="#e097d9" alink="#79a2c9">
     <p class="instructions">
         <center><br /><br />
-            <b>Character Assigner</b><br /><br>
-            Enter a list of items to rank separated by new line<br>
+            <b>ASSIGNER MAKER</b><br /><br>
+            Enter a list of items to assign separated by new line<br>
         </center>
     </p>
 
