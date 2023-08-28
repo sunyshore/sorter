@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<script>var __pbpa = true;</script>
+<script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script>
+<script type="text/javascript" language="javascript"
+    src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=66ac555bc5745ebe20abdae7cbc40704"></script>
+<!doctype HTML>
+<link rel="shortcut icon" href="http://sv.tinypic.com?ref=qq68e9">
+
+<html>
+
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+    <meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <meta http-equiv="Content-Script-Type" content="text/javascript">
+    <script type="text/javascript">
+
+        <!--
+        var lstMember = new Array();
+        var parent = new Array();
+        var equal = new Array();
+        var rec = new Array();
+        var cmp1,cmp2;
+        var head1,head2;
+        var nrec;
+        
+        var numQuestion;
+        var totalSize;
+        var finishSize;
+        var finishFlag;
+
+        function init() {
+            var list1 = new Array(
+                "option 1",
+                "option 2"
+            );
+
+            var list2 = new Array(
+                "option 1",
+                "option 2"
+            );
+
+            function getItems(){
+                var area1 = document.getElementById("area1").value;
+                var area2 = document.getElementById("area2").value;
+                if (area1 && area2) {
+                    var items1 = area1.replace(/\r\n/g,"\n").split("\n").filter(line => line);
+                    var items2 = area2.replace(/\r\n/g,"\n").split("\n").filter(line => line);
+                    list1 = items1;
+                    list2 = items2;
+                    run()
+                } else {
+                    document.getElementById("resultField").innerHTML = 'pls enter things to assign';
+                }
+            }
+
+            getItems();
+
+            function run() {
+
+                function shuffle(array) {
+                    let currentIndex = array.length,  randomIndex;
+                    while (currentIndex > 0) {
+                        randomIndex = Math.floor(Math.random() * currentIndex);
+                        currentIndex--;
+                        [array[currentIndex], array[randomIndex]] = [
+                        array[randomIndex], array[currentIndex]];
+                    }
+                    return array;
+                }
+
+                shuffle(list1);
+                shuffle(list2);
+
+                var outputStr = '';
+
+                for (i = 0; i < list1.length; i++) {
+                    outputStr = outputStr + (list1[i]) + ' - ' + (list2[i]) + '<br>';
+                }
+                console.log(outputStr);
+
+                document.getElementById("resultField").innerHTML = outputStr;
+            }
+        }
+    </script>
+
+    <style type="text/css">
+        <!--
+        a {
+            color: #fc7c39;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: #8f8f8f;
+        }
+
+        body {
+            width: 600px;
+            margin: 0 auto;
+            font-family: 'Times New Roman', erif;
+        }
+        -->
+    </style>
+</head>
+
+<link href='http://fonts.googleapis.com/css?family=Josefin+Slab:600' rel='stylesheet' type='text/css'>
+
+<body text="#000000" bgcolor="#ffffff" link="#e097d9" vlink="#e097d9" alink="#79a2c9">
+    <p class="instructions">
+        <center><br /><br />
+            <b>Character Assigner</b><br /><br>
+            Enter a list of items to rank separated by new line<br>
+        </center>
+    </p>
+
+    <div id="itemArea" align="center">
+        <textarea id="area1" name="area1" rows="10" cols="30"></textarea>
+        <textarea id="area2" name="area2" rows="10" cols="30"></textarea>
+    </div>
+    <br>
+
+    <div id="resultField" style="text-align: center;">
+    </div>
+    <br>
+    <br>
+
+    <div id="submitButton" align="center">
+        <button type="button" onclick="init()">Assign!</button>
+    </div>
+
+    <p class="other">
+        <center><small><br /><br />
+            code <a href="https://github.com/sunyshore">by sunyshore</a><br>
+            <a href="./index.html">link to sorter</a>
+        </small></center></small>
+    </p>
+
+</body>
+</html>
