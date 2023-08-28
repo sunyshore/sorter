@@ -29,6 +29,26 @@
         var finishFlag;
 
         function run() {
+            var namMember = new Array(
+                "option 1",
+                "option 2"
+            );
+
+            function getItems(){
+                var area = document.getElementById("area").value;
+                if (area && area.indexOf("\n")!=-1) {
+                    document.getElementById("mainTable").style.display = "block";
+                    document.getElementById("resultField").innerHTML = "";
+                    var items = area.replace(/\r\n/g,"\n").split("\n").filter(line => line);
+                    // console.log(items);
+                    namMember = items;
+                    initList()
+                    showImage()
+                } else {
+                    document.getElementById("mainTable").style.display = "none";
+                    document.getElementById("resultField").innerHTML = "pls enter at least two items to rank";
+                }
+            }
 
             getItems();
             
@@ -200,7 +220,7 @@
             }
             
             function showImage() {
-                document.getElementById("resultField").style.display = "block";
+                //document.getElementById("resultField").style.display = "block";
                 var str0 = "battle #"+numQuestion+"<br>"+Math.floor(finishSize*100/totalSize)+"% sorted.";
                 var str1 = ""+toNameFace(lstMember[cmp1][head1]);
                 var str2 = ""+toNameFace(lstMember[cmp2][head2]);
@@ -217,8 +237,6 @@
             }
 
             run.sortList = sortList;
-            initList()
-            showImage()
         }
     </script>
 
@@ -292,6 +310,12 @@
     </div>
     <br>
 
+    <div id="submitButton" align="center">
+        <button type="button" onclick="run()">New Battle!</button>
+    </div>
+    <br>
+    <br>
+
     <table id="mainTable" align="center">
         <tbody>
             <tr>
@@ -316,21 +340,15 @@
     </table>
     <br><br>
 
-    <div id="resultField" style="text-align: center; display: none;">
-    </div>
-    <br>
-    <br>
-
-    <div id="submitButton" align="center">
-        <button type="button" onclick="run()">New Battle!</button>
+    <div id="resultField" style="text-align: center;">
     </div>
 
     <p class="other">
         <center><small><br /><br />
             code modified <a href="https://github.com/sunyshore">by sunyshore</a>.<br>
             used with permission.<br>
-            <a href="./assigner.html">link to assigner</a><br>
-            <a href="http://biasorter.tumblr.com/">created by biasorter</a>.
+            <a href="http://biasorter.tumblr.com/">created by biasorter</a>.<br>
+            <a href="./assigner.html">link to assigner</a>
         </small></center></small>
     </p>
 
