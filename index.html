@@ -29,17 +29,6 @@
         var finishFlag;
 
         function run() {
-            var namMember = new Array(
-                "option 1",
-                "option 2"
-            );
-
-            function getItems(){
-                var area = document.getElementById("area").value;
-                var items = area.replace(/\r\n/g,"\n").split("\n").filter(line => line);
-                // console.log(items);
-                namMember = items;
-            }
 
             getItems();
             
@@ -211,6 +200,7 @@
             }
             
             function showImage() {
+                document.getElementById("resultField").style.display = "block";
                 var str0 = "battle #"+numQuestion+"<br>"+Math.floor(finishSize*100/totalSize)+"% sorted.";
                 var str1 = ""+toNameFace(lstMember[cmp1][head1]);
                 var str2 = ""+toNameFace(lstMember[cmp2][head2]);
@@ -244,6 +234,7 @@
             margin-right: auto;
             border-collapse: separate;
             border-spacing: 10px 5px;
+            display: none;
         }
 
         #leftField {
@@ -299,6 +290,7 @@
     <div id="itemArea" align="center">
         <textarea id="area" name="area" rows="10" cols="30"></textarea>
     </div>
+    <br>
 
     <table id="mainTable" align="center">
         <tbody>
@@ -324,9 +316,9 @@
     </table>
     <br><br>
 
-    <div id="resultField" style="text-align: center;">
-        <br>
+    <div id="resultField" style="text-align: center; display: none;">
     </div>
+    <br>
     <br>
 
     <div id="submitButton" align="center">
@@ -337,6 +329,7 @@
         <center><small><br /><br />
             code modified <a href="https://github.com/sunyshore">by sunyshore</a>.<br>
             used with permission.<br>
+            <a href="./assigner.html">link to assigner</a><br>
             <a href="http://biasorter.tumblr.com/">created by biasorter</a>.
         </small></center></small>
     </p>
