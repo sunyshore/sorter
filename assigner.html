@@ -45,8 +45,13 @@
                 if (area1 && area2) {
                     var items1 = area1.replace(/\r\n/g,"\n").split("\n").filter(line => line);
                     var items2 = area2.replace(/\r\n/g,"\n").split("\n").filter(line => line);
-                    list1 = items1;
-                    list2 = items2;
+                    if (items1.length <= items2.length) {
+                        list1 = items1;
+                        list2 = items2;
+                    } else {
+                        list1 = items2;
+                        list2 = items1;
+                    }
                     run()
                 } else {
                     document.getElementById("resultField").innerHTML = 'pls enter things to assign';
