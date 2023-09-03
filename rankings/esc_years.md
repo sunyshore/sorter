@@ -7,43 +7,43 @@ insert songs after newline
 <details>
 <summary>2023</summary>
 
-🇦🇱 Albania | Albina & Familja Kelmendi - Duje<br>
-🇦🇲 Armenia | Brunette - Future Lover<br>
-🇦🇺 Australia | Voyager - Promise<br>
-🇦🇹 Austria | Teya & Salena - Who The Hell Is Edgar?<br>
-🇦🇿 Azerbaijan | TuralTuranX - Tell Me More<br>
-🇧🇪 Belgium | Gustaph - Because Of You<br>
-🇭🇷 Croatia | Let 3 - Mama ŠČ!<br>
-🇨🇾 Cyprus | Andrew Lambrou - Break A Broken Heart<br>
-🇨🇿 Czechia | Vesna - My Sister's Crown<br>
-🇩🇰 Denmark | Reiley - Breaking My Heart<br>
-🇪🇪 Estonia | Alika - Bridges<br>
-🇫🇮 Finland | Käärijä - Cha Cha Cha<br>
-🇫🇷 France | La Zarra - Évidemment<br>
-🇬🇪 Georgia | Iru - Echo<br>
-🇩🇪 Germany | Lord of the Lost - Blood & Glitter<br>
-🇬🇷 Greece | Victor Vernicos - What They Say<br>
-🇮🇸 Iceland | Diljá - Power<br>
-🇮🇪 Ireland | Wild Youth - We Are One<br>
-🇮🇱 Israel | Noa Kirel - Unicorn<br>
-🇮🇹 Italy | Marco Mengoni - Due Vite<br>
-🇱🇻 Latvia | Sudden Lights - Aijā<br>
-🇱🇹 Lithuania | Monika Linkytė - Stay<br>
-🇲🇹 Malta | The Busker - Dance (Our Own Party)<br>
-🇲🇩 Moldova | Pasha Parfeni - Soarele şi Luna<br>
-🇳🇱 Netherlands | Mia Nicolai & Dion Cooper - Burning Daylight<br>
-🇳🇴 Norway | Alessandra  - Queen of Kings<br>
-🇵🇱 Poland | Blanka - Solo<br>
-🇵🇹 Portugal | Mimicat - Ai Coração<br>
-🇷🇴 Romania | Theodor Andrei - D.G.T. (Off and On)<br>
-🇸🇲 San Marino | Piqued Jacks - Like An Animal<br>
-🇷🇸 Serbia | Luke Black - Samo Mi Se Spava<br>
-🇸🇮 Slovenia | Joker Out - Carpe Diem<br>
-🇪🇸 Spain | Blanca Paloma - Eaea<br>
-🇸🇪 Sweden | Loreen - Tattoo<br>
-🇨🇭 Switzerland | Remo Forrer - Watergun<br>
-🇺🇦 Ukraine | TVORCHI - Heart of Steel<br>
-🇬🇧 United Kingdom | Mae Muller - I Wrote A Song<br>
+🇦🇱 Albania: Albina & Familja Kelmendi - Duje<br>
+🇦🇲 Armenia: Brunette - Future Lover<br>
+🇦🇺 Australia: Voyager - Promise<br>
+🇦🇹 Austria: Teya & Salena - Who The Hell Is Edgar?<br>
+🇦🇿 Azerbaijan: TuralTuranX - Tell Me More<br>
+🇧🇪 Belgium: Gustaph - Because Of You<br>
+🇭🇷 Croatia: Let 3 - Mama ŠČ!<br>
+🇨🇾 Cyprus: Andrew Lambrou - Break A Broken Heart<br>
+🇨🇿 Czechia: Vesna - My Sister's Crown<br>
+🇩🇰 Denmark: Reiley - Breaking My Heart<br>
+🇪🇪 Estonia: Alika - Bridges<br>
+🇫🇮 Finland: Käärijä - Cha Cha Cha<br>
+🇫🇷 France: La Zarra - Évidemment<br>
+🇬🇪 Georgia: Iru - Echo<br>
+🇩🇪 Germany: Lord of the Lost - Blood & Glitter<br>
+🇬🇷 Greece: Victor Vernicos - What They Say<br>
+🇮🇸 Iceland: Diljá - Power<br>
+🇮🇪 Ireland: Wild Youth - We Are One<br>
+🇮🇱 Israel: Noa Kirel - Unicorn<br>
+🇮🇹 Italy: Marco Mengoni - Due Vite<br>
+🇱🇻 Latvia: Sudden Lights - Aijā<br>
+🇱🇹 Lithuania: Monika Linkytė - Stay<br>
+🇲🇹 Malta: The Busker - Dance (Our Own Party)<br>
+🇲🇩 Moldova: Pasha Parfeni - Soarele şi Luna<br>
+🇳🇱 Netherlands: Mia Nicolai & Dion Cooper - Burning Daylight<br>
+🇳🇴 Norway: Alessandra  - Queen of Kings<br>
+🇵🇱 Poland: Blanka - Solo<br>
+🇵🇹 Portugal: Mimicat - Ai Coração<br>
+🇷🇴 Romania: Theodor Andrei - D.G.T. (Off and On)<br>
+🇸🇲 San Marino: Piqued Jacks - Like An Animal<br>
+🇷🇸 Serbia: Luke Black - Samo Mi Se Spava<br>
+🇸🇮 Slovenia: Joker Out - Carpe Diem<br>
+🇪🇸 Spain: Blanca Paloma - Eaea<br>
+🇸🇪 Sweden: Loreen - Tattoo<br>
+🇨🇭 Switzerland: Remo Forrer - Watergun<br>
+🇺🇦 Ukraine: TVORCHI - Heart of Steel<br>
+🇬🇧 United Kingdom: Mae Muller - I Wrote A Song<br>
 </details>
 
 <details>
@@ -75,7 +75,7 @@ insert songs after newline
 🇲🇹 Malta: Emma Muscat - I Am What I Am<br>
 🇲🇩 Moldova: Zdob şi Zdub & Frații Advahov - Trenulețul<br>
 🇲🇪 Montenegro: Vladana - Breathe<br>
-🇱 Netherlands: S10 - De Diepte<br>
+🇳🇱 Netherlands: S10 - De Diepte<br>
 🇲🇰 North Macedonia: Andrea - Circles<br>
 🇳🇴 Norway: Subwoolfer - Give That Wolf A Banana<br>
 🇵🇱 Poland: Ochman - River<br>
@@ -95,11 +95,9 @@ insert songs after newline
 <summary>2021</summary>
 
 Albania - Anxhela Peristeri - Karma<br>
-Armenia - WITHDRAW<br>
 Australia - Montaigne - Technicolour<br>
 Austria - Vincent Bueno - Amen<br>
 Azerbaijan - Samira Efendi - Mata Hari<br>
-Belarus - Galasy ZMesta - Ya Nauchu Tebya (eliminated)<br>
 Belgium - Hooverphonic - The Wrong Place<br>
 Bulgaria - VICTORIA - Growing Up Is Getting Old<br>
 Croatia - Albina - Tick Tock<br>
@@ -234,7 +232,7 @@ United Kingdom: Michael Rice - Bigger Than Us<br>
 
 Albania: Eugent Bushpepa - Mall<br>
 Armenia: Sevak Khanagyan - Qami<br>
-Australia: Jessica Mauboy - We Got Love'<br>
+Australia: Jessica Mauboy - We Got Love<br>
 Austria: Cesár Sampson - Nobody But You<br>
 Azerbaijan: Aisel - X My Heart<br>
 Belarus: Alekseev - Forever<br>

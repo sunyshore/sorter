@@ -1,4 +1,4 @@
-<details>
+<details open>
 <summary>ALL SONGS</summary>
 
 carpe diem<br>
