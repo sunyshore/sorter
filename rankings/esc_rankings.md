@@ -65,9 +65,49 @@ insert ranking after newline
 </details>
 
 <details>
-<summary>2019 (last updated)</summary>
-
-insert ranking after newline
+<summary>2019 (sep 6, 2023)</summary>
+  
+1.	Iceland: Hatari - Hatrið Mun Sigra
+2.	Portugal: Conan Osíris - Telemóveis
+3.	Croatia: Roko - The Dream
+4.	Estonia: Victor Crone - Storm
+5.	Belarus: ZENA - Like It
+5.	Italy: Mahmood - Soldi
+5.	Slovenia: Zala Kralj & Gašper Šantl - Sebi
+5.	Switzerland: Luca Hänni - She Got Me
+9.	Spain: Miki - La Venda
+10.	Albania: Jonida Maliqi - Ktheju Tokës
+10.	France: Bilal Hassani - Roi
+12.	Cyprus: Tamta - Replay
+13.	Armenia: Srbuk - Walking Out
+13.	Azerbaijan: Chingiz - Truth
+13.	Montenegro: D-Moll - Heaven
+13.	San Marino: Serhat - Say Na Na Na
+17.	Greece: Katerine Duska - Better Love
+17.	Hungary: Joci Pápai - Az Én Apám
+19.	Israel: Kobi Marimi - Home
+20.	North Macedonia: Tamara Todevska - Proud
+20.	Norway: KEiiNO - Spirit In The Sky
+20.	Serbia: Nevana Bozovic - Kruna
+20.	Sweden: John Lundvik - Too Late For Love
+24.	Romania: Ester Peony - On A Sunday
+24.	Russia: Sergey Lazarev - Scream
+26.	Georgia: Oto Nemsadze - Sul Tsin Iare
+27.	Lithuania: Jurijus - Run With The Lions
+28.	Latvia: Carousel - That Night
+28.	Moldova: Anna Odobescu - Stay
+30.	Malta: Michela - Chameleon
+31.	Finland: Darude feat. Sebastian Rejman - Look Away
+31.	Germany: S!sters - Sister
+33.	Poland: Tulia - Pali Sie (Fire Of Love)
+34.	United Kingdom: Michael Rice - Bigger Than Us
+35.	Belgium: Eliot - Wake Up
+35.	Czech Republic: Lake Malawi - Friend of a Friend
+35.	Denmark: Leonora - Love Is Forever
+38.	The Netherlands: Duncan Laurence - Arcade
+39.	Ireland: Sarah McTernan - 22
+40.	Australia: Kate Miller-Heidke - Zero Gravity
+40.	Austria: PAENDA - Limits
 </details>
 
 <details>
