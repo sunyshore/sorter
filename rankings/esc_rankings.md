@@ -47,7 +47,8 @@ insert ranking after newline
 </details>
 
 <details>
-<summary>2022 (last updated)</summary>
+<summary>2022 (sep 8, 2023)</summary>
+
 1.	🇸🇮 Slovenia: LPS - Disko
 2.	🇱🇻 Latvia: Citi Zēni - Eat Your Salad
 3.	🇫🇷 France: Alvan & Ahez - Fulenn
@@ -88,7 +89,6 @@ insert ranking after newline
 38.	🇨🇭 Switzerland: Marius Bear - Boys Do Cry
 39.	🇦🇿 Azerbaijan: Nadir Rustamli - Fade To Black
 40.	🇳🇴 Norway: Subwoolfer - Give That Wolf A Banana
-
 </details>
 
 <details>
@@ -154,11 +154,9 @@ insert ranking after newline
 
 insert ranking after newline
 </details>
-<<<<<<< Updated upstream
-=======
 
 <details>
-<summary>2007* (last updated)</summary>
+<summary>2007* (sep 8, 2023)</summary>
 
 - Greece	Sarbel	"Yassou Maria" (Γειά σου Μαρία)
 - Serbia	Marija Šerifović	"Molitva" (Молитва)
@@ -166,4 +164,3 @@ insert ranking after newline
 - Ukraine	Verka Serduchka	"Dancing Lasha Tumbai"
 - Bulgaria	Elitsa Todorova and Stoyan Yankoulov	"Water"
 </details>
->>>>>>> Stashed changes
