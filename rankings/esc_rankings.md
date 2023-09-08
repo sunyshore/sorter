@@ -48,8 +48,47 @@ insert ranking after newline
 
 <details>
 <summary>2022 (last updated)</summary>
+1.	🇸🇮 Slovenia: LPS - Disko
+2.	🇱🇻 Latvia: Citi Zēni - Eat Your Salad
+3.	🇫🇷 France: Alvan & Ahez - Fulenn
+4.	🇮🇹 Italy: Mahmood & Blanco - Brividi
+5.	🇨🇾 Cyprus: Andromache - Ela
+6.	🇺🇦 Ukraine: Kalush Orchestra - Stefania
+7.	🇪🇸 Spain: Chanel - SloMo
+8.	🇪🇪 Estonia: Stefan - Hope
+9.	🇵🇱 Poland: Ochman - River
+9.	🇷🇴 Romania: WRS - Llámame
+9.	🇸🇲 San Marino: Achille Lauro - Stripper
+12.	🇦🇱 Albania: Ronela Hajati - Sekret
+13.	🇱🇹 Lithuania: Monika Liu - Sentimentai
+13.	🇷🇸 Serbia: Konstrakta - In Corpore Sano
+15.	🇲🇩 Moldova: Zdob şi Zdub & Frații Advahov - Trenulețul
+16.	🇵🇹 Portugal: MARO - Saudade Saudade
+17.	🇫🇮 Finland: The Rasmus - Jezebel
+17.	🇮🇪 Ireland: Brooke - That’s Rich
+19.	🇲🇹 Malta: Emma Muscat - I Am What I Am
+20.	🇦🇹 Austria: LUM!X feat. Pia Maria - Halo
+21.	🇮🇸 Iceland: Systur - Með Hækkandi Sól
+22.	🇸🇪 Sweden: Cornelia Jakobs - Hold Me Closer
+23.	🇮🇱 Israel: Michael Ben David - I.M
+24.	🇧🇬 Bulgaria: Intelligent Music Project - Intention
+25.	🇳🇱 Netherlands: S10 - De Diepte
+26.	🇨🇿 Czech Republic: We Are Domi - Lights Off
+27.	🇬🇧 United Kingdom: Sam Ryder - SPACE MAN
+28.	🇩🇰 Denmark: REDDI - The Show
+29.	🇦🇲 Armenia: Rosa Linn - Snap
+29.	🇭🇷 Croatia: Mia Dimšić - Guilty Pleasure
+31.	🇲🇪 Montenegro: Vladana - Breathe
+32.	🇩🇪 Germany: Malik Harris - Rockstars
+33.	🇦🇺 Australia: Sheldon Riley - Not The Same
+33.	🇧🇪 Belgium: Jérémie Makiese - Miss You
+35.	🇬🇪 Georgia: Circus Mircus - Lock Me In
+36.	🇬🇷 Greece: Amanda Georgiadi Tenfjord - Die Together
+37.	🇲🇰 North Macedonia: Andrea - Circles
+38.	🇨🇭 Switzerland: Marius Bear - Boys Do Cry
+39.	🇦🇿 Azerbaijan: Nadir Rustamli - Fade To Black
+40.	🇳🇴 Norway: Subwoolfer - Give That Wolf A Banana
 
-insert ranking after newline
 </details>
 
 <details>
@@ -115,3 +154,16 @@ insert ranking after newline
 
 insert ranking after newline
 </details>
+<<<<<<< Updated upstream
+=======
+
+<details>
+<summary>2007* (last updated)</summary>
+
+- Greece	Sarbel	"Yassou Maria" (Γειά σου Μαρία)
+- Serbia	Marija Šerifović	"Molitva" (Молитва)
+- Spain 	D'Nash	"I Love You Mi Vida"
+- Ukraine	Verka Serduchka	"Dancing Lasha Tumbai"
+- Bulgaria	Elitsa Todorova and Stoyan Yankoulov	"Water"
+</details>
+>>>>>>> Stashed changes
