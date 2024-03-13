@@ -278,45 +278,43 @@ United Kingdom: SuRie - Storm<br>
 
 <details>
 <summary>2015</summary>
-
-Albania: I'm Alive
-Armenia: Face the Shadow
-Australia: Tonight Again
-Austria: I Am Yours
-Belarus: Time
-Belgium: Rhythm Inside
-Cyprus: One Thing I Should Have Done
-Czechia: Hope Never Dies
-Denmark:  The Way You Are
-Estonia: Goodbye to Yesterday
-Finland: Aina mun pitää
-France: N'oubliez pas
-Georgia: Warrior
-Germany: Black Smoke
-Greece: One Last Breath
-Hungary:  Wars for Nothing
-Iceland: Unbroken
-Ireland: Playing With Numbers
-Italy: Grande amore
-Latvia: Love Injected
-Lithuania: This Time
-N Macedonia: Autumn Leaves
-Malta: Warrior
-Moldova: I Want Your Love
-Montenegro: Adio (Адио)
-Netherlands: Walk Along
-Norway: A Monster Like Me
-Poland: In the Name of Love
-Portugal: Há um mar que nos separa
-Romania: De la capăt
-San Marino: Chain of Lights
-Serbia: Beauty Never Lies
-Slovenia: Here for You
-Spain: Amanecer
-Sweden: Heroes
-Switzerland: Time to Shine
-UK: Still in Love with You
-insert songs after newline
+Albania: I'm Alive<br>
+Armenia: Face the Shadow<br>
+Australia: Tonight Again<br>
+Austria: I Am Yours<br>
+Belarus: Time<br>
+Belgium: Rhythm Inside<br>
+Cyprus: One Thing I Should Have Done<br>
+Czechia: Hope Never Dies<br>
+Denmark:  The Way You Are<br>
+Estonia: Goodbye to Yesterday<br>
+Finland: Aina mun pitää<br>
+France: N'oubliez pas<br>
+Georgia: Warrior<br>
+Germany: Black Smoke<br>
+Greece: One Last Breath<br>
+Hungary:  Wars for Nothing<br>
+Iceland: Unbroken<br>
+Ireland: Playing With Numbers<br>
+Italy: Grande amore<br>
+Latvia: Love Injected<br>
+Lithuania: This Time<br>
+N Macedonia: Autumn Leaves<br>
+Malta: Warrior<br>
+Moldova: I Want Your Love<br>
+Montenegro: Adio (Адио)<br>
+Netherlands: Walk Along<br>
+Norway: A Monster Like Me<br>
+Poland: In the Name of Love<br>
+Portugal: Há um mar que nos separa<br>
+Romania: De la capăt<br>
+San Marino: Chain of Lights<br>
+Serbia: Beauty Never Lies<br>
+Slovenia: Here for You<br>
+Spain: Amanecer<br>
+Sweden: Heroes<br>
+Switzerland: Time to Shine<br>
+UK: Still in Love with You<br>
 </details>
 
 
