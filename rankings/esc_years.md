@@ -274,3 +274,56 @@ Switzerland: Zibbz - Stones<br>
 Ukraine:  Mélovin - Under the Ladder<br>
 United Kingdom: SuRie - Storm<br>
 </details>
+
+
+<details>
+<summary>2015</summary>
+
+Albania: I'm Alive
+Armenia: Face the Shadow
+Australia: Tonight Again
+Austria: I Am Yours
+Belarus: Time
+Belgium: Rhythm Inside
+Cyprus: One Thing I Should Have Done
+Czechia: Hope Never Dies
+Denmark:  The Way You Are
+Estonia: Goodbye to Yesterday
+Finland: Aina mun pitää
+France: N'oubliez pas
+Georgia: Warrior
+Germany: Black Smoke
+Greece: One Last Breath
+Hungary:  Wars for Nothing
+Iceland: Unbroken
+Ireland: Playing With Numbers
+Italy: Grande amore
+Latvia: Love Injected
+Lithuania: This Time
+N Macedonia: Autumn Leaves
+Malta: Warrior
+Moldova: I Want Your Love
+Montenegro: Adio (Адио)
+Netherlands: Walk Along
+Norway: A Monster Like Me
+Poland: In the Name of Love
+Portugal: Há um mar que nos separa
+Romania: De la capăt
+San Marino: Chain of Lights
+Serbia: Beauty Never Lies
+Slovenia: Here for You
+Spain: Amanecer
+Sweden: Heroes
+Switzerland: Time to Shine
+UK: Still in Love with You
+insert songs after newline
+</details>
+
+
+
+
+
+
+
+
+
