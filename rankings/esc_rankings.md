@@ -92,9 +92,47 @@ insert ranking after newline
 </details>
 
 <details>
-<summary>2021 (last updated)</summary>
-
-insert ranking after newline
+<summary>2021 (mar 24, 2023)</summary>
+  
+1.	Italy - Maneskin - Zitti E Buoni<br>
+2.	Lithuania - The Roop - Discoteque<br>
+3.	Spain - Blas Canto - Voy A Quedarme<br>
+4.	Croatia - Albina - Tick Tock<br>
+5.	Finland - Blind Channel - Dark Side<br>
+5.	Iceland - Dadi & Gagnamadnid - 10 Years<br>
+7.	Ukraine - Go_A - Shum<br>
+8.	Netherlands - Jeangu Macrooy - The Birth Of A New Age<br>
+9.	Serbia - Hurricane - Loco Loco<br>
+10.	Russia - Manizha - Russian Woman<br>
+11.	Bulgaria - VICTORIA - Growing Up Is Getting Old<br>
+12.	San Marino - Senhit & FloRida - Adrenalina<br>
+13.	Azerbaijan - Samira Efendi - Mata Hari<br>
+14.	Poland - Rafał Brzozowski - The Ride<br>
+15.	Albania - Anxhela Peristeri - Karma<br>
+16.	Romania - Roxen - Amnesia<br>
+17.	Malta - Destiny - Je Me Casse<br>
+18.	Moldova - Natalia Gordienko - Sugar<br>
+19.	Switzerland - Gjon's Tears - Tout l'Univers<br>
+20.	Cyprus - Elena Tsagrinou - El Diablo<br>
+21.	Ireland - Leslie Roy - Maps<br>
+22.	France - Barbara Pravi - Voila<br>
+23.	Germany - Jendrik Sigwart - I Don't Feel Hate<br>
+24.	Norway - Tix - Fallen Angel<br>
+25.	United Kingdom - James Newman - Embers<br>
+26.	Australia - Montaigne - Technicolour<br>
+27.	Denmark - Fyr & Flamme - Øve Os På Hinanden<br>
+28.	Portugal - The Black Mamba - Love Is On My Side<br>
+29.	Czech Republic - Benny Cristo - Omaga<br>
+30.	Sweden - Tusse - Voices<br>
+31.	Greece - Stefania - Last Dance<br>
+32.	N. Macedonia - Vasil - Here I Stand<br>
+33.	Georgia - Tornike Kipiani - You<br>
+34.	Latvia - Samanta Tina - Moon Is Rising<br>
+35.	Slovenia - Ana Soklic - Amen<br>
+36.	Belgium - Hooverphonic - The Wrong Place<br>
+37.	Austria - Vincent Bueno - Amen<br>
+38.	Estonia - Uku Suviste - The Lucky One<br>
+<br>
 </details>
 
 <details>
