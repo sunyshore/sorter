@@ -136,9 +136,49 @@ insert ranking after newline
 </details>
 
 <details>
-<summary>2020 (last updated)</summary>
-
-insert ranking after newline
+<summary>2020 (mar 24, 2024)</summary>
+  
+1.	Iceland: Daði & Gagnamagnið - Think About Things<br>
+2.	Italy: Diodato - Fai Rumore<br>
+3.	Lithuania: The Roop - On Fire<br>
+4.	Belgium: Hooverphonic - Release Me<br>
+5.	Norway: Ulrikke - Attention<br>
+6.	Denmark: Ben & Tan - Yes<br>
+7.	Cyprus: Sandro - Running<br>
+8.	San Marino: Senhit - Freaky!<br>
+9.	North Macedonia: Vasil - You<br>
+10.	Sweden: The Mamas - Move<br>
+11.	The Netherlands: Jeangu Macrooy - Grow<br>
+12.	Bulgaria: VICTORIA - Tears Getting Sober<br>
+13.	Ukraine: GO_A - Solovey<br>
+14.	France: Tom Leeb - The Best In Me<br>
+15.	Belarus: VAL - Da Vidna<br>
+16.	Serbia: Hurricane - Hasta La Vista<br>
+17.	Malta: Destiny - All Of My Love<br>
+18.	Poland: Alicja Szemplińska - Empires<br>
+19.	Israel: Eden Alene - Feker Libi<br>
+20.	Ireland: Lesley Roy - Story Of My Life<br>
+21.	Moldova: Natalia Gordienko - Prison<br>
+22.	Russia: Little Big - Uno<br>
+23.	Croatia: Damir Kedžo - Divlji vjetre<br>
+24.	Albania: Arilena Ara - Shaj<br>
+25.	Armenia: Athena Manoukian - Chains On You<br>
+26.	Azerbaijan: Efendi - Cleopatra<br>
+27.	Latvia: Samanta Tīna - Still Breathing<br>
+28.	Australia: Montaigne - Don't Break Me<br>
+29.	Portugal: Elisa - Medo de Sentir<br>
+30.	Finland: Aksel Kankaanranta - Looking Back<br>
+31.	Switzerland: Gjon's Tears - Répondez-Moi<br>
+32.	Czech Republic: Benny Cristo - Kemama<br>
+33.	Germany: Ben Dolic - Violent Thing<br>
+34.	United Kingdom: James Newman - My Last Breath<br>
+35.	Romania: Roxen - Alcohol You<br>
+36.	Spain: Blas Cantó - Universo<br>
+37.	Georgia: Tornike Kaipini - Take Me As I Am<br>
+38.	Greece: Stefania - Superg!rl<br>
+39.	Slovenia - Ana Soklic - Voda<br>
+40.	Estonia: Uku Suviste - What Love Is<br>
+41.	Austria: Vincent Bueno - Alive<br>
 </details>
 
 <details>
