@@ -5,6 +5,86 @@ insert songs after newline
 </details>
 
 <details>
+<summary>2025</summary>
+
+🇦🇱 Albania: Shkodra Elektronike – Zjerm
+🇦🇲 Armenia: PARG – SURVIVOR 
+🇦🇺 Australia: Go-Jo – Milkshake Man 
+🇦🇹 Austria: JJ – Wasted Love
+🇧🇪 Belgium: Red Sebastian – Strobe Lights
+🇭🇷 Croatia: Marko Bošnjak – Poison Cake
+🇨🇾 Cyprus: Theo Evan – Shh
+🇨🇿 Czechia: ADONXS – Kiss Kiss Goodbye
+🇩🇰 Denmark: Sissal – Hallucination 
+🇪🇪 Estonia: Tommy Cash – Espresso Macchiato
+🇫🇮 Finland: Erika Vikman – ICH KOMME
+🇫🇷 France: Louane – maman
+🇬🇪 Georgia: Mariam Shengelia – Freedom
+🇩🇪 Germany: Abor & Tynna – Baller
+🇬🇷 Greece: Klavdia – Asteromáta
+🇮🇸 Iceland: VÆB – RÓA
+🇮🇪 Ireland: EMMY – Laika Party
+🇮🇹 Italy: Lucio Corsi – Volevo Essere Un Duro
+🇱🇻 Latvia: Tautumeitas – Bur Man Laimi
+🇱🇹 Lithuania: Katarsis – Tavo Akys
+🇱🇺 Luxembourg: Laura Thorn – La Poupée Monte Le Son
+🇲🇹 Malta: Miriana Conte – SERVING
+🇲🇪 Montenegro: Nina Žižić – Dobrodošli
+🇳🇱 Netherlands: Claude – C"est La Vie
+🇳🇴 Norway: Kyle Alessandro – Lighter 
+🇵🇱 Poland: Justyna Steczkowska – GAJA
+🇵🇹 Portugal: NAPA – Deslocado
+🇸🇲 San Marino: Gabry Ponte – Tutta L’Italia 
+🇷🇸 Serbia: Princ – Mila 
+🇸🇮 Slovenia: Klemen – How Much Time Do We Have Left
+🇪🇸 Spain: Melody – ESA DIVA
+🇸🇪 Sweden: KAJ – Bara Bada Bastu 
+🇨🇭 Switzerland: Zoë Më – Voyage
+🇺🇦 Ukraine: Ziferblat – Bird of Pray
+🇬🇧 United Kingdom: Remember Monday – What The Hell Just Happened?
+</details>
+
+<details>
+<summary>2024</summary>
+
+🇦🇱 ALBANIA: BESA - TITAN
+🇦🇲 ARMENIA: LADANIVA - Jako
+🇦🇺 AUSTRALIA: Electric Fields - One Milkali (One Blood)
+🇦🇹 AUSTRIA: Kaleen - We Will Rave
+🇧🇪 BELGIUM: Mustii - Before The Party"s Over
+🇭🇷 CROATIA: Baby Lasagna - Rim Tim Tagi Dim
+🇨🇾 CYPRUS: Silia Kapsis - Liar
+🇨🇿 CZECHIA: Aiko - Pedestal
+🇩🇰 DENMARK: SABA - SAND
+🇪🇪 ESTONIA: 5MIINUST x Puuluup - (nendest) narkootikumidest ei tea me (küll) midagi
+🇫🇮 FINLAND: Windows95man - No Rules!
+🇫🇷 FRANCE: Slimane - Mon amour
+🇬🇪 GEORGIA: Nutsa Buzaladze - Firefighter
+🇩🇪 GERMANY: ISAAK - Always On The Run
+🇬🇷 GREECE: Marina Satti - ZARI
+🇮🇸 ICELAND: Hera Björk - Scared of Heights
+🇮🇪 IRELAND: Bambie Thug - Doomsday Blue
+🇮🇹 ITALY: Angelina Mango - La noia
+🇱🇻 LATVIA: Dons - Hollow
+🇱🇹 LITHUANIA: Silvester Belt - Luktelk
+🇱🇺 LUXEMBOURG: TALI - Fighter
+🇲🇹 MALTA: Sarah Bonnici - Loop
+🇲🇩 MOLDOVA: Natalia Barbu - In The Middle
+🇳🇱 NETHERLANDS: Joost Klein - Europapa
+🇳🇴 NORWAY: Gåte - Ulveham
+🇵🇱 POLAND: LUNA - The Tower
+🇵🇹 PORTUGAL: iolanda - Grito
+🇸🇲 SAN MARINO: MEGARA - 11:11
+🇷🇸 SERBIA: TEYA DORA - RAMONDA
+🇸🇮 SLOVENIA: Raiven - Veronika
+🇪🇸 SPAIN: Nebulossa - ZORRA
+🇸🇪 SWEDEN: Marcus & Martinus - Unforgettable
+🇨🇭 SWITZERLAND: Nemo - The Code
+🇺🇦 UKRAINE: alyona alyona & Jerry Heil - Teresa & Maria
+🇬🇧 UNITED KINGDOM: Olly Alexander - Dizzy
+</details>
+
+<details>
 <summary>2023</summary>
 
 🇦🇱 Albania: Albina & Familja Kelmendi - Duje<br>
